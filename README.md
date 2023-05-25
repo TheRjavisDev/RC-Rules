@@ -6,6 +6,8 @@ If you repeatedly break the rules or engage in particularly severe misconduct, y
 
 ## WARNING: As of 9th of May, new testers may no longer get admin permissions unless moderator applications become opened.
 
+## WARNING 2: Even though it might be "Too good to be true", it's still a recreation.
+
 # Rules
 
 Rule 1: No harassment, bullying, or hate speech. This includes using offensive language, making personal attacks, or engaging in any other behavior that creates a hostile or unsafe environment. Any player found to be engaging in harassment, bullying, or hate speech will be dealt with accordingly, up to and including being permanently blacklisted from the game.
